@@ -19,7 +19,7 @@ The following project is the first second layer application to OTHub-io:
 - [x] Development of Basic Infrastructure: setting up fundamental architecture of the platform, which includes backend server modules, databases, domain (Q2 2023)
 - [x] Deployment of OriginTrail Parachain indexing: complete indexing and syncing of OT Parachain on local server (Q3 2023)
 - [x] Launch of OTHub-io Beta: launch a first version of OTHub-io with basic functionalities for real-world testing and feedback (Q3 2023)
-- [ ] User Feedback and Iteration: collect feedback from beta users, make necessary adjustments and improvements (Q3 2024)
+- [ ] User Feedback and Iteration: collect feedback from beta users, make necessary adjustments and improvements (Q3 2023)
 - [ ] Development of OTHub-io frontend: creating user interfaces and data visualizations, which includes charts, network statistics, dashboards for asset publishers and node runners, implement Web3 wallet signing and Metamask support (Q4 2023)
 - [ ] API Development: design and implement the API that would allow users to directly access the OTP data (Q4 2023)
 - [ ] Testing and Quality Assurance: thorough testing of all features and functionalities (Q1 2024)
