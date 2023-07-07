@@ -28,3 +28,9 @@ The following project is the first second layer application to OTHub-io:
 
 ## Expected impact
 Based on the positive feedback gathered from the original OTHub for past versions of the DKG, we expect OTHub-io to have a very significant impact at launch for all participants of the network. A first version of [othub.io](othub.io) is currently available for public viewing with limited functionality and has received very positive community feedbacks. 
+
+_____
+
+OTHub is built and maintained by the Origintrail Community. 
+
+Please consult the [Disclaimer](https://github.com/othub-io/othub-io/blob/main/Disclaimer.md).
