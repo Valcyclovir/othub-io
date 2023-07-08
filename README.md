@@ -13,6 +13,7 @@ The following repositories represent the core of OTHub-io:
 
 The following project is the first second layer application to OTHub-io:
 - OTHub-bot: multi purpose bot runtime for easy integration to popular social platforms
+- OTHub-gov: DKG Voting and Governance for node runners and delegators
 
 ## Milestones and Timeline
 - [x] Technical Planning & Design: overall system architecture planification, which includes GitHub, frontend and backend frameworks, database management system, API (Q2 2023)
@@ -20,7 +21,8 @@ The following project is the first second layer application to OTHub-io:
 - [x] Deployment of OriginTrail Parachain indexing: complete indexing and syncing of OT Parachain on local server (Q3 2023)
 - [x] Launch of OTHub-io Beta: launch a first version of OTHub-io with basic functionalities for real-world testing and feedback (Q3 2023)
 - [ ] User Feedback and Iteration: collect feedback from beta users, make necessary adjustments and improvements (Q3 2023)
-- [ ] Development of OTHub-io frontend: creating user interfaces and data visualizations, which includes charts, network statistics, dashboards for asset publishers and node runners, implement Web3 wallet signing and Metamask support (Q4 2023)
+- [ ] Run a DKG V6 Mainnet Node and initiate OTHub-gov voting mechanisms (Q4 2023)
+- [ ] Development of OTHub-io frontend: creating user interfaces and data visualizations, which includes charts, network statistics, dashboards for asset publishers, node runners and delegators, implement Web3 wallet signing and Metamask support (Q4 2023)
 - [ ] API Development: design and implement the API that would allow users to directly access the OTP data (Q4 2023)
 - [ ] Testing and Quality Assurance: thorough testing of all features and functionalities (Q1 2024)
 - [ ] Full Launch of OTHub-io: launch of second version of OTHub-io with full functionalities (Q1 2024)
